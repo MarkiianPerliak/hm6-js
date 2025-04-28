@@ -2,6 +2,7 @@
   "name": "hm6",
   "version": "1.0.0",
   "description": "",
+  "homepage": "https://markiianperliak.github.io/hm6-js/",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "npx parcel src/index.html",
